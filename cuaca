@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technology problem</title>
+    <link rel="stylesheet" href="front.css">
+</head>
+<body>
+    <h1>Ketergantungan pada teknologi(hold your cursor here)</h1>
+    <p>Teknologi adalah penerapan ilmu pengetahuan untuk membuat alat, sistem, atau metode yang membantu manusia menyelesaikan berbagai masalah. Teknologi juga dapat diartikan sebagai aplikasi pengetahuan untuk mencapai tujuan praktis. </p>
+    <h2>Daftar ketergantungan teknologi yang paling umum:</h2>
+             <ul>
+                   <li>Media sosial dan aplikasi pesan: orang dapat menghabiskan terlalu banyak waktu di media sosial dan perpesanan, sehingga mengurangi waktu yang mereka habiskan di dunia nyata. Selain itu, hal ini menyebabkan ketergantungan pada pembaruan berita dan pesan terus menerus.</li>
+                   <li>Ponsel Pintar dan Tablet: ponsel cerdas dan tablet dapat menjadi cara utama untuk berkomunikasi dengan dunia, dan orang-orang dapat menjadi tergantung untuk terus-menerus memeriksa notifikasi, me-retweet, dan menelusuri media sosial dan perpesanan.</li>
+                   <li>Game dan hiburan online: game dan hiburan online dapat membuat ketagihan, menyebabkan orang menghabiskan terlalu banyak waktu di dunia maya daripada di kehidupan nyata.
+             
+            </ul>
+     <img src="https://storage.googleapis.com/rspi-assets-production/rspi-api/uploads/5eafd5b5aa5b2_20200504154333-1.jpg" alt="Gambar 1">
+ 
+     <iframe src="https://www.meteoblue.com/en/weather/widget/daily/sangatta_indonesia_1627717?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=0&winddirection=1&uv=0&humidity=0&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/sangatta_indonesia_1627717?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+
+
+    </body>
+</html>
